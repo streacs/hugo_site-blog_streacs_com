@@ -1,3 +1,10 @@
 baseURL = "http://blog.streacs.com/"
 languageCode = "en-us"
 title = "Just another weblog "
+theme = "fishbone"
+
+[params]
+  author = "Oliver Wolf"
+
+[markup.goldmark.renderer]
+  unsafe= true
