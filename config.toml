@@ -5,6 +5,7 @@ theme = "fishbone"
 
 [params]
   author = "Oliver Wolf"
+  email = "oliver.wolf@streacs.com"
 
 [markup.goldmark.renderer]
   unsafe= true
